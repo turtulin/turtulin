@@ -17,9 +17,10 @@
 <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turtulin&theme=github_dark&show_icons=true&bg_color=0111111"> 
 </p>
 
-<br> <h2 align="center">⚡ TECH STUFF ⚡</h2>
+<br> <h2 align="center">⚡ Main OS ⚡</h2>
 <br> <p align="center"> 
-![Main OS](https://img.shields.io/badge/endeavourOS-violet?style=plastic&logo=%237F7FFF&logoColor=yellow&link=https%3A%2F%2Fendeavouros.com%2F)
+![Main OS](https://img.shields.io/badge/EndeavourOS-ccb7eb?style=for-the-badge&logo=endeavouros&link=https%3A%2F%2Fendeavouros.com%2F)
+
 
 
 </p>
