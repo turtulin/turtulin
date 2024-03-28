@@ -51,28 +51,40 @@
 [![PL](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/)
 [![PL](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/)
 [![PL](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)](https://www.raspberrypi.com/)
+[![PL](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=ffffff)](https://www.wireshark.org/)
 [![PL](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)](https://www.gnu.org/software/bash/manual/bash.html)
 [![PL](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=ffffff)](https://learn.microsoft.com/en-us/powershell/)
 [![PL](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=ffffff)](https://app.powerbi.com/home)
 [![PL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)](https://dev.mysql.com/)
+[![PL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff)](https://dev.mysql.com/)
 </p>
 
-<br> <h2 align="center">💫 PASSION AND INTERESTS 💫</h2>
+<br> <h2 align="center">💫 PASSIONS AND INTERESTS 💫</h2>
 <br> <p align="center"> 
 ![PL](https://img.shields.io/badge/Ballet-E9568E?style=for-the-badge)
-![PL](https://img.shields.io/badge/Quantum_Computing-541BAE?style=for-the-badge)
-![PL](https://img.shields.io/badge/Photography-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
-![PL](https://img.shields.io/badge/Movies-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
-![PL](https://img.shields.io/badge/Music-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
-![PL](https://img.shields.io/badge/Maths_and_Science-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
-![PL](https://img.shields.io/badge/Machine_Learning-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
-![PL](https://img.shields.io/badge/AI-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
-![PL](https://img.shields.io/badge/Research_Methodologies-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
-![PL](https://img.shields.io/badge/Videogames-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=ffffff)
-![PL](https://img.shields.io/badge/Computer_Architecture-ED1C24?style=for-the-badge&logo=amd&logoColor=ffffff)
-![PL](https://img.shields.io/badge/Data_Science-ED1C24?style=for-the-badge&logo=amd&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Photography-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Travelling-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Movies-E50914?style=for-the-badge&logo=netflix&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=ffffff)
 ![PL](https://img.shields.io/badge/Dungeons_&_Dragons-ED1C24?style=for-the-badge&logo=dungeonsanddragons&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Videogames-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Maths_and_Science-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Data_Science-276DC3?style=for-the-badge&logo=r&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Computer_Architecture-ED1C24?style=for-the-badge&logo=amd&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Machine_Learning-40AEF0?style=for-the-badge)
+![PL](https://img.shields.io/badge/AI-ECD53F?style=for-the-badge)
+![PL](https://img.shields.io/badge/Research_Methodologies-5C0D34?style=for-the-badge)
+![PL](https://img.shields.io/badge/Quantum_Computing-541BAE?style=for-the-badge)
 </p>
 
+<br> <h2 align="center">🤝 CONNECT WITH ME 🤝</h2>
+<br> <p align="center"> 
+[![Social](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=ffffff)](t.me/congenial_potato)
+[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/martamusso_/)
+[![Social](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/en-us/windows)
+[![Social](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![Social](https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)](https://www.raspberrypi.com/software/)
+[![Social](https://img.shields.io/badge/ParrotOS-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)](https://www.parrotsec.org/)
+</p>
 
 ![Snake animation](https://raw.githubusercontent.com/turtulin/turtulin/output/github-contribution-grid-snake-dark.svg)
