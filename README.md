@@ -33,44 +33,44 @@
 
 <br> <h2 align="center">💻 PROGRAMMING LANGUAGES 💻</h2>
 <br> <p align="center"> 
-[![PL](https://img.shields.io/badge/Java-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Silq-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Python-40AEF0?style=for-the-badge&logo=python&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/JavaScript-40AEF0?style=for-the-badge&logo=javascript&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/C-40AEF0?style=for-the-badge&logo=linux&c=ffffff)]()
-[![PL](https://img.shields.io/badge/Haskell-40AEF0?style=for-the-badge&logo=haskell&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Q#-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Java-40AEF0?style=for-the-badge)](https://www.java.com/)
+[![PL](https://img.shields.io/badge/Silq-40AEF0?style=for-the-badge)](https://silq.ethz.ch/)
+[![PL](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![PL](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![PL](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+[![PL](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=ffffff)](https://www.haskell.org/)
+[![PL](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=ffffff)](https://www.r-project.org/)
 </p>
 
 <br> <h2 align="center">🤖 OTHER TECH STUFF 🤖</h2>
 <br> <p align="center"> 
-[![PL](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Shell-241F31?style=for-the-badge&logo=gnometerminal&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)](https://code.visualstudio.com/)
+[![PL](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
+[![PL](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
+[![PL](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=ffffff)](https://neovim.io/)
+[![PL](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/)
+[![PL](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/)
+[![PL](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)](https://www.raspberrypi.com/)
+[![PL](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)](https://www.gnu.org/software/bash/manual/bash.html)
+[![PL](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=ffffff)](https://learn.microsoft.com/en-us/powershell/)
+[![PL](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=ffffff)](https://app.powerbi.com/home)
+[![PL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)](https://dev.mysql.com/)
 </p>
 
 <br> <h2 align="center">💫 PASSION AND INTERESTS 💫</h2>
 <br> <p align="center"> 
-[![PL](https://img.shields.io/badge/Ballet-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Quantum_Computing-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Photography-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Movies-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Music-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Maths_and_Science-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Machine_Learning-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/AI-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Research_Methodologies-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Videogames-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=ffffff)]()
-[![PL](https://img.shields.io/badge/Computer_Architecture-ED1C24?style=for-the-badge&logo=amd&logoColor=ffffff)]()
+![PL](https://img.shields.io/badge/Ballet-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Quantum_Computing-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Photography-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Movies-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Music-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Maths_and_Science-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Machine_Learning-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
+![PL](https://img.shields.io/badge/AI-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Research_Methodologies-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Videogames-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Computer_Architecture-ED1C24?style=for-the-badge&logo=amd&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Data_Science-ED1C24?style=for-the-badge&logo=amd&logoColor=ffffff)
 </p>
 
 
