@@ -21,10 +21,14 @@
 <br> <p align="center"> 
 <br> <h2 align="left">Currently using...</h2>
 <br> <p align="center"> 
-[![Main OS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=ffffff)]()
-[![Main OS](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=ffffff)]()
-[![Main OS](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)]()
+[![Main OS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=ffffff)](https://endeavouros.com/)
+[![Main OS](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=ffffff)](https://www.debian.org/)
+[![Main OS](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/en-us/windows)
 <br> <h2 align="left">Previously used...</h2>
+<br> <p align="center"> 
+[![Main OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![Main OS](https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)](https://www.raspberrypi.com/software/)
+[![Main OS](https://img.shields.io/badge/ParrotOS-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)](https://www.parrotsec.org/)
 <br> <p align="center"> 
 
 </p>
