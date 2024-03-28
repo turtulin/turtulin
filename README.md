@@ -79,12 +79,9 @@
 
 <br> <h2 align="center">🤝 CONNECT WITH ME 🤝</h2>
 <br> <p align="center"> 
-[![Social](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=ffffff)](t.me/congenial_potato)
+[![Social](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](t.me/congenial_potato)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/martamusso_/)
-[![Social](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/en-us/windows)
-[![Social](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
-[![Social](https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)](https://www.raspberrypi.com/software/)
-[![Social](https://img.shields.io/badge/ParrotOS-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)](https://www.parrotsec.org/)
+[![Social](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](www.linkedin.com/in/marta-musso-79bb3b255)
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/turtulin/turtulin/output/github-contribution-grid-snake-dark.svg)
