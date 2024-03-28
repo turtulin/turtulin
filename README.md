@@ -33,8 +33,8 @@
 
 <br> <h2 align="center">💻 PROGRAMMING LANGUAGES 💻</h2>
 <br> <p align="center"> 
-[![PL](https://img.shields.io/badge/Java-40AEF0?style=for-the-badge)](https://www.java.com/)
-[![PL](https://img.shields.io/badge/Silq-40AEF0?style=for-the-badge)](https://silq.ethz.ch/)
+[![PL](https://img.shields.io/badge/Java-fb7423?style=for-the-badge)](https://www.java.com/)
+[![PL](https://img.shields.io/badge/Silq-01B4E4?style=for-the-badge)](https://silq.ethz.ch/)
 [![PL](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![PL](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/javascript)
 [![PL](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
@@ -59,8 +59,8 @@
 
 <br> <h2 align="center">💫 PASSION AND INTERESTS 💫</h2>
 <br> <p align="center"> 
-![PL](https://img.shields.io/badge/Ballet-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
-![PL](https://img.shields.io/badge/Quantum_Computing-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Ballet-E9568E?style=for-the-badge)
+![PL](https://img.shields.io/badge/Quantum_Computing-541BAE?style=for-the-badge)
 ![PL](https://img.shields.io/badge/Photography-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![PL](https://img.shields.io/badge/Movies-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![PL](https://img.shields.io/badge/Music-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)
@@ -71,6 +71,7 @@
 ![PL](https://img.shields.io/badge/Videogames-E60012?style=for-the-badge&logo=nintendoswitch&logoColor=ffffff)
 ![PL](https://img.shields.io/badge/Computer_Architecture-ED1C24?style=for-the-badge&logo=amd&logoColor=ffffff)
 ![PL](https://img.shields.io/badge/Data_Science-ED1C24?style=for-the-badge&logo=amd&logoColor=ffffff)
+![PL](https://img.shields.io/badge/Dungeons_&_Dragons-ED1C24?style=for-the-badge&logo=dungeonsanddragons&logoColor=ffffff)
 </p>
 
 
