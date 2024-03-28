@@ -26,19 +26,48 @@
 [![Main OS](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/en-us/windows)
 <br> <h2 align="left">Previously used...</h2>
 <br> <p align="center"> 
-[![Main OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
-[![Main OS](https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)](https://www.raspberrypi.com/software/)
-[![Main OS](https://img.shields.io/badge/ParrotOS-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)](https://www.parrotsec.org/)
+[![Other OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![Other OS](https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)](https://www.raspberrypi.com/software/)
+[![Other OS](https://img.shields.io/badge/ParrotOS-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)](https://www.parrotsec.org/)
+</p>
+
+<br> <h2 align="center">🛠 PROGRAMMING LANGUAGES 🛠</h2>
 <br> <p align="center"> 
-
+[![PL](https://img.shields.io/badge/Java-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Silq-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Python-40AEF0?style=for-the-badge&logo=python&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/JavaScript-40AEF0?style=for-the-badge&logo=javascript&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/C-40AEF0?style=for-the-badge&logo=linux&c=ffffff)]()
+[![PL](https://img.shields.io/badge/Haskell-40AEF0?style=for-the-badge&logo=haskell&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Q#-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
 </p>
 
-<br> <h2 align="center">🛠 LANGUAGES AND TOOLS 🛠</h2>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<br> <h2 align="center">🤖 OTHER TECH STUFF 🤖</h2>
+<br> <p align="center"> 
+[![PL](https://img.shields.io/badge/Git-40AEF0?style=for-the-badge&logo=git&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Raspberry_Pi-40AEF0?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Github-40AEF0?style=for-the-badge&logo=github&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/IntelliJ-40AEF0?style=for-the-badge&logo=intellijidea&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/PyCharm-40AEF0?style=for-the-badge&logo=pycharm&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Visual_Studio_Code-40AEF0?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Neovim-40AEF0?style=for-the-badge&logo=neovim&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Q#-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
 </p>
+
+<br> <h2 align="center">💫 PASSION AND INTERESTS 💫</h2>
+<br> <p align="center"> 
+[![PL](https://img.shields.io/badge/Ballet-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Quantum_Computing-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Photography-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Movies-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Music-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Maths_and_Science-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Machine_Learning-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/AI-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Research_Methodologies-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Videogames-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+[![PL](https://img.shields.io/badge/Computer_Architecture-40AEF0?style=for-the-badge&logo=linux&logoColor=ffffff)]()
+</p>
+
 
 ![Snake animation](https://raw.githubusercontent.com/turtulin/turtulin/output/github-contribution-grid-snake-dark.svg)
