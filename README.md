@@ -17,13 +17,18 @@
 <img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turtulin&theme=github_dark&show_icons=true&bg_color=0111111"> 
 </p>
 
-<br> <h2 align="center">⚡ Main OS ⚡</h2>
+<br> <h2 align="center">⚡ OPERATING SYSTEMS ⚡</h2>
 <br> <p align="center"> 
-![Main OS](https://img.shields.io/badge/EndeavourOS-ccb7eb?style=for-the-badge&logo=endeavouros&link=https%3A%2F%2Fendeavouros.com%2F)
-
-
+<br> <h2 align="left">Currently using...</h2>
+<br> <p align="center"> 
+[![Main OS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=ffffff)]()
+[![Main OS](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=ffffff)]()
+[![Main OS](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)]()
+<br> <h2 align="left">Previously used...</h2>
+<br> <p align="center"> 
 
 </p>
+
 <br> <h2 align="center">🛠 LANGUAGES AND TOOLS 🛠</h2>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
