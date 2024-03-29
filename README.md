@@ -79,9 +79,9 @@
 
 <br> <h2 align="center">🤝 CONNECT WITH ME 🤝</h2>
 <br> <p align="center"> 
-[![Social](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](t.me/congenial_potato)
+[![Social](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/congenial_potato)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/martamusso_/)
-[![Social](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](www.linkedin.com/in/marta-musso-79bb3b255)
+[![Social](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/marta-musso-79bb3b255)
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/turtulin/turtulin/output/github-contribution-grid-snake-dark.svg)
