@@ -52,6 +52,7 @@
 [![PL](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/)
 [![PL](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=ffffff)](https://www.arduino.cc/)
 [![PL](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)](https://www.raspberrypi.com/)
+[![PL](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=ffffff)](https://www.vmware.com/)
 [![PL](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=ffffff)](https://www.wireshark.org/)
 [![PL](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)](https://www.gnu.org/software/bash/manual/bash.html)
 [![PL](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=ffffff)](https://learn.microsoft.com/en-us/powershell/)
