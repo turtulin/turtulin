@@ -57,7 +57,7 @@
 [![PL](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)](https://www.gnu.org/software/bash/manual/bash.html)
 [![PL](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=ffffff)](https://learn.microsoft.com/en-us/powershell/)
 [![PL](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=ffffff)](https://app.powerbi.com/home)
-[![PL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)](https://dev.mysql.com/)
+[![PL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![PL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff)](https://dev.mysql.com/)
 </p>
 
