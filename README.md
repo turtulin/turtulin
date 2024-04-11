@@ -50,6 +50,7 @@
 [![PL](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=ffffff)](https://neovim.io/)
 [![PL](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/)
 [![PL](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/)
+[![PL](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=aarduino&logoColor=ffffff)](https://www.arduino.cc/)
 [![PL](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)](https://www.raspberrypi.com/)
 [![PL](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=ffffff)](https://www.wireshark.org/)
 [![PL](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)](https://www.gnu.org/software/bash/manual/bash.html)
